@@ -21,5 +21,4 @@ Run the script and input text when prompted. Type 'exit' to stop the application
 ## Contributing
 Contributions for improvements or NLP integration are welcome.
 
-## License
-[Specify License]
+
